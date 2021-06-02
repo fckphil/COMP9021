@@ -1,0 +1,38 @@
+Test 1 ... passed	0.09375
+Test 2 ... passed	0.09375
+Test 3 ... passed	0.09375
+Test 4 ... passed	0.09375
+Test 5 ... failed	0
+Test 6 ... passed	0.09375
+Test 7 ... failed	0
+Test 8 ... passed	0.09375
+Test 9 ... failed	0
+Test 10 ... passed	0.09375
+Test 11 ... failed	0
+Test 12 ... passed	0.09375
+Test 13 ... failed	0
+Test 14 ... passed	0.09375
+Test 15 ... failed	0
+Test 16 ... passed	0.09375
+Test 17 ... failed	0
+Test 18 ... passed	0.09375
+Test 19 ... failed	0
+Test 20 ... passed	0.09375
+Test 21 ... failed	0
+Test 22 ... passed	0.09375
+Test 23 ... failed	0
+Test 24 ... passed	0.09375
+Test 25 ... passed	0.09375
+Test 26 ... passed	0.09375
+Test 27 ... passed	0.09375
+Test 28 ... passed	0.09375
+Test 29 ... failed	0
+Test 30 ... failed	0
+Test 31 ... failed	0
+Test 32 ... failed	0
+
+Penalty       	
+
+Bonus         	
+
+Total mark    	1.68750
